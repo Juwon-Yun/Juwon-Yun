@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 -->
 <h1>Skills<h1>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 
