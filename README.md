@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <!--   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwon-Yun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwon-Yun&hide=css,html&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juwon-Yun&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwon-Yun&layout=compact&hide=css,html&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juwon-Yun&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=true)
 
   
 <!--   
