@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Juwon&fontSize=70&animation=twinkling)
+## Hello, I'm Juwon Yun!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+- 📫 How to reach me: 
+  - Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-%20blog-000000?style=flat-square&logo=bookstack&logoColor=white&link=https://alstn2468.github.io/)](https://waytocse.tistory.com/)
 
 <!--
 ### Hi there 👋
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -33,10 +37,13 @@ Here are some ideas to get you started:
 <!--   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwon-Yun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ 
+ ## ⚙️ GitHub Analytics
+ 
 <p align="center" >
 <a href="https://github.com/Juwon-Yun">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juwon-Yun&layout=compact&hide=css,html&theme=chartreuse-dark&hide_border=true"/>
-  <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=Juwon-Yun&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=true"/>
+  <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=Juwon-Yun&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true""/>
 </a>
 </p>
 
