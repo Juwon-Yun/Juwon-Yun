@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&section=header&text=Juwon&fontSize=70&animation=twinkling)
-## Hello, I'm Juwon Yun!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+## Hello, I'm Juwon Yun!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 - 📫 How to reach me: 
   - Tech Blog: [![Tech Blog Badge](http://img.shields.io/badge/-%20blog-000000?style=flat-square&logo=bookstack&logoColor=white&link=https://alstn2468.github.io/)](https://juwon-yun.tistory.com/)
 
